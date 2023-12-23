@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="PvpBoxPractice:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/commands/moderateur/TpCommand.java" line="39" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b57491ee-b31e-4b90-a601-1bf388a6c457" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PvpBoxPractice" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/save/Kits.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="102" selection-start-line="31" selection-start-column="102" selection-end-line="31" selection-end-column="102" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/player/interact/PlayerInteractUnranked.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/manager/ItemManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2205">
+              <caret line="147" column="63" selection-start-line="147" selection-start-column="63" selection-end-line="147" selection-end-column="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/player/interact/PlayerIntearctRanked.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/manager/SettingsManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/commands/moderateur/TpCommand.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/player/PlayerMoveEvent.java" />
+        <option value="$PROJECT_DIR$/src/plugin.yml" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/commands/CommandManger.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/player/PlayerMove.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/commands/moderateur/Unfreeze.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/commands/moderateur/UnFreeze.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/player/interact/PlayerInteractClassement.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/list/PracticeList.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/block/BlockPlace.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/save/AllPlayers.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/save/AllUUID.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/commands/moderateur/Freeze.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/player/PlayerChat.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/save/All_ID.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/save/Item_Kits.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/block/SignChange.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/player/interact/PlayerInteractSignEditKit.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/menu/ValidateEditKit.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/player/interact/PlayerInteractEditKit.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/menu/EditKitKits.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/save/Kits.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/menu/RankedKits.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/manager/SettingsManager.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/menu/StatistiquesKit.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/player/PlayerQuit.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/menu/ClassementView.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/menu/ClassementKit.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/entity/EntityRegainHealth.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/player/PlayerDropItem.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/block/BlockBreak.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/manager/ChronoManager.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/menu/UnrankedKit.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/commands/moderateur/Vanish.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/player/PlayerDeath.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/manager/ZoneManager.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/entity/EntityDamage.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/entity/EntityExplode.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/ListenerManager.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/player/PlayerRegainHealth.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/entity/EntitySpawn.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/player/PlayerJoin.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/list/ListManager.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/menu/ValidateModifKit.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/player/PlayerItemConsume.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/manager/MatchManager.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/menu/StatistiquesView.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/save/Statistiques.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/PvpBoxPractice.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/manager/ItemManager.java" />
+        <option value="$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/player/interact/PlayerIntearctRanked.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="240" />
+    <option name="y" value="126" />
+    <option name="width" value="1440" />
+    <option name="height" value="765" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PvpBoxPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PvpBoxPractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PvpBoxPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PvpBoxPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PvpBoxPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PvpBoxPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PvpBoxPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PvpBoxPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PvpBoxPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PvpBoxPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+              <item name="moderateur" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PvpBoxPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PvpBoxPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PvpBoxPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PvpBoxPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PvpBoxPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PvpBoxPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="listenners" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PvpBoxPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PvpBoxPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="listenners" type="462c0819:PsiDirectoryNode" />
+              <item name="block" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PvpBoxPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PvpBoxPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="listenners" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PvpBoxPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PvpBoxPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="listenners" type="462c0819:PsiDirectoryNode" />
+              <item name="inventory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PvpBoxPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PvpBoxPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="listenners" type="462c0819:PsiDirectoryNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PvpBoxPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PvpBoxPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="listenners" type="462c0819:PsiDirectoryNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+              <item name="interact" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PvpBoxPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PvpBoxPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PvpBoxPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PvpBoxPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PvpBoxPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PvpBoxPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="save" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PvpBoxPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="discord-project" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.elenox.pvpbox.practice.commands" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.elenox.pvpbox.practice" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.elenox.pvpbox.practice.listenners.player" />
+      <recent name="com.elenox.pvpbox.practice.listenners.entity" />
+      <recent name="com.elenox.pvpbox.practice.listenners.player.interact" />
+      <recent name="com.elenox.pvpbox.practice.listenners.block" />
+      <recent name="com.elenox.pvpbox.practice.save" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Fargues\Documents\Java\PvpBoxPractice\src\com\elenox\pvpbox\practice\commands" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b57491ee-b31e-4b90-a601-1bf388a6c457" name="Default Changelist" comment="" />
+      <created>1571845217160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571845217160</updated>
+      <workItem from="1571845220403" duration="161000" />
+      <workItem from="1571845480536" duration="1007000" />
+      <workItem from="1571926036965" duration="4964000" />
+      <workItem from="1572002683074" duration="8859000" />
+      <workItem from="1572082786532" duration="5886000" />
+      <workItem from="1572259864834" duration="2084000" />
+      <workItem from="1572268438032" duration="5045000" />
+      <workItem from="1572273541682" duration="949000" />
+      <workItem from="1572362606707" duration="5603000" />
+      <workItem from="1572429575334" duration="4967000" />
+      <workItem from="1572510087333" duration="4154000" />
+      <workItem from="1572522389008" duration="13000" />
+      <workItem from="1572529785174" duration="748000" />
+      <workItem from="1572533829957" duration="2017000" />
+      <workItem from="1572602772522" duration="3988000" />
+      <workItem from="1572686832058" duration="2000" />
+      <workItem from="1572797175374" duration="8213000" />
+      <workItem from="1572860587823" duration="2386000" />
+      <workItem from="1572883264158" duration="6847000" />
+      <workItem from="1573061988190" duration="4682000" />
+      <workItem from="1573128438181" duration="372000" />
+      <workItem from="1573293634567" duration="2621000" />
+      <workItem from="1573407071024" duration="7000" />
+      <workItem from="1573485692968" duration="72000" />
+      <workItem from="1573919344138" duration="19000" />
+      <workItem from="1573921529321" duration="604000" />
+      <workItem from="1581372426295" duration="724000" />
+      <workItem from="1581515559671" duration="58000" />
+      <workItem from="1584439440173" duration="429000" />
+      <workItem from="1587463420928" duration="313000" />
+      <workItem from="1603999820004" duration="127000" />
+      <workItem from="1604000600841" duration="63000" />
+      <workItem from="1604000831022" duration="91000" />
+      <workItem from="1604000998195" duration="476000" />
+      <workItem from="1604001693935" duration="144000" />
+      <workItem from="1607777049158" duration="2227000" />
+      <workItem from="1700230759431" duration="43000" />
+      <workItem from="1700231040572" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="80980000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49944258" visible="true" weight="0.33087248" />
+      <window_info id="Structure" order="1" sideWeight="0.5005574" side_tool="true" weight="0.16684435" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5037594" side_tool="true" weight="0.16684435" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32887402" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32941177" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010661" side_tool="true" weight="0.7029412" />
+      <window_info anchor="bottom" id="Statistic" order="10" sideWeight="0.4989339" weight="0.703456" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.04411765" />
+      <window_info anchor="bottom" id="Duplicates" order="14" sideWeight="0.49946696" weight="0.32998884" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/commands/moderateur/UnFreeze.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="33" column="93" selection-start-line="33" selection-start-column="93" selection-end-line="33" selection-end-column="93" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1931">
+          <caret line="344" column="7" lean-forward="true" selection-start-line="344" selection-start-column="7" selection-end-line="344" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/player/PlayerChat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/list/PracticeList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/block/SignChange.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/player/interact/PlayerInteractSignEditKit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/player/interact/PlayerInteractEditKit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/menu/EditKitKits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="73" column="56" lean-forward="true" selection-start-line="73" selection-start-column="56" selection-end-line="73" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/player/interact/PlayerInteractClassement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/menu/RankedKits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="77" column="108" selection-start-line="77" selection-start-column="108" selection-end-line="77" selection-end-column="108" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/list/java/util/annotations.xml" />
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/player/PlayerQuit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/menu/ClassementView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="79" column="84" selection-start-line="79" selection-start-column="84" selection-end-line="79" selection-end-column="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#724#725#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/player/PlayerDropItem.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/block/BlockPlace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/block/BlockBreak.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/commands/moderateur/Vanish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="32" column="83" selection-start-line="32" selection-start-column="83" selection-end-line="32" selection-end-column="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/manager/ZoneManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" lean-forward="true" selection-start-column="43" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/player/PlayerDeath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/entity/EntityExplode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/player/PlayerRegainHealth.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/entity/EntitySpawn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/block/BlockExplode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/save/All_ID.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/menu/UnrankedKit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="60" column="61" selection-start-line="60" selection-start-column="61" selection-end-line="60" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/player/interact/PlayerInteractLeaveQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/menu/ValidateModifKit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="67" column="57" selection-start-line="67" selection-start-column="57" selection-end-line="67" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/list/ListManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="739">
+          <caret line="121" column="42" lean-forward="true" selection-start-line="121" selection-start-column="42" selection-end-line="121" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/player/PlayerItemConsume.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/manager/ChronoManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/PvpBoxPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/save/Statistiques.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/manager/MatchManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="806">
+          <caret line="66" column="51" selection-start-line="66" selection-start-column="51" selection-end-line="66" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/ListenerManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/menu/ClassementKit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/entity/EntityDamage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/commands/moderateur/Freeze.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/commands/player/Spawn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/plugin.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/entity/EntityRegainHealth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/entity/FoodChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/player/PlayerJoin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/player/interact/PlayerIntearctStats.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/menu/StatistiquesView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-641">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#651#652#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/menu/StatistiquesKit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="79" column="80" selection-start-line="79" selection-start-column="80" selection-end-line="79" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/save/Kits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="102" selection-start-line="31" selection-start-column="102" selection-end-line="31" selection-end-column="102" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/player/interact/PlayerInteractUnranked.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/manager/ItemManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2205">
+          <caret line="147" column="63" selection-start-line="147" selection-start-column="63" selection-end-line="147" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/listenners/player/interact/PlayerIntearctRanked.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/commands/CommandManger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="79" lean-forward="true" selection-start-line="15" selection-start-column="79" selection-end-line="15" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elenox/pvpbox/practice/manager/SettingsManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>PvpBoxPractice:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>PvpBoxPractice</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

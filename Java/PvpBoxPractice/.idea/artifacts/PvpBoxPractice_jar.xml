@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PvpBoxPractice:jar">
+    <output-path>$PROJECT_DIR$/../../ElenoxDev</output-path>
+    <root id="archive" name="PvpBoxPractice.jar">
+      <element id="module-output" name="PvpBoxPractice" />
+    </root>
+  </artifact>
+</component>

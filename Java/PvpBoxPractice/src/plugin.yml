@@ -1,0 +1,11 @@
+name: PvbBoxPractice
+version: 1.0
+author: Chickenox
+main: com.elenox.pvpbox.practice.PvpBoxPractice
+api-version: 1.13
+commands:
+  spawn:
+  vanish:
+  tp:
+  freeze:
+  unfreeze:
