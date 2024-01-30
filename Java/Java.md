@@ -1,4 +1,4 @@
-<h1>Projets Python</h1>
+<h1>Projets Java</h1>
 
 <h2>Cours "Programmation Orienté objet" Openclassroom</h2>
 Pendant mes grandes vacances en 2019, j'ai appris à programmer en Java. Cela m'a permis de découvrir le langage Java mais aussi la programmation orientée objet et l'utilisation de Java FX. J'ai donc reéalisé plusieurs projets: 
