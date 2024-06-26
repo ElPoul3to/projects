@@ -9,3 +9,6 @@ Pendant mes grandes vacances en 2019, j'ai appris à programmer en Java. Cela m'
 
 <h2>Programmation avec Spigot</h2>
 Après ces différents projets, je me suis mis à programmer des plugins Minecraft avec Spigot. J'ai nottamment fait un plugin permettant de se combattre dans une arène (PvpBoxPractice). Les joueurs pouvaient aussi prendre des "kits" spécifiques (il y avait des armes spéciales que j'ai programmé moi-même).
+
+<h2>Picross<h2>
+Durant ma première année d'école d'ingénieur, nous avons créé, en groupe de 5, le jeu picross en Java. Pour cela nous nous sommes notamment aidés des bibliothèques JavaFX, JavaNIO, JSON. Je me suis chargé de mettre en oeuvre le stockage des Picross, via des fichiers JSON et également de mettre en place la partie réseau avec un camarade.
